@@ -16,7 +16,8 @@ spelling.
 
 To guide rhythmic grouping, line breaks are often less intrusive:
 
-> Every little light  
+> Every little light
+>
 > rises with the tide
 
 Use hyphens when the syllable split is important; use line breaks to suggest
@@ -37,7 +38,8 @@ Commas, periods, and line breaks can suggest pauses or breaths. Place
 punctuation at intended phrase boundaries and avoid punctuation that conflicts
 with the desired legato flow. For example:
 
-> I follow the river,  
+> I follow the river,
+>
 > then breathe before the dawn.
 
 This may encourage a pause after "river," but it does not prescribe an exact

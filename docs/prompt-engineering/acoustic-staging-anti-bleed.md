@@ -54,8 +54,10 @@ Some interfaces interpret labels such as `[Lead vocal]` or `[Backing vocals]`
 as useful text cues; others treat the brackets as ordinary tokens. A
 model-agnostic example is:
 
-> Lead: close, dry, centered, clearly intelligible.  
-> Backing: quiet, wide harmonies in phrase endings.  
+> Lead: close, dry, centered, clearly intelligible.
+>
+> Backing: quiet, wide harmonies in phrase endings.
+>
 > Instrumental: leave space around the vocal; keep pads diffuse and behind it.
 
 If a model supports explicit stem, channel, or spatial controls, prefer those

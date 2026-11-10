@@ -31,8 +31,10 @@ practice, not a universal feature of model internals. Keep tags stable across
 chunks, for example:
 
 > Identity: mellow synth-pop, restrained pulse, warm analog-style bass, breathy
-> lead vocal, recurring four-note descending hook.  
-> Current section: second verse, sparse accompaniment.  
+> lead vocal, recurring four-note descending hook.
+>
+> Current section: second verse, sparse accompaniment.
+>
 > Next section: build gently into the chorus; retain the hook and vocal tone.
 
 If an interface uses section tags such as `[Verse]` and `[Chorus]`, follow its
