@@ -23,6 +23,9 @@ conditioning behavior vary between models and interfaces.
   shape syllable timing, sustained vowels, and breath placement in lyrics.
 - [Style and gear proxies](docs/prompt-engineering/style-and-gear-proxies.md):
   express sound through era, instrumentation, production, and mix properties.
+- [Storytelling for audio drama](docs/prompt-engineering/storytelling-for-audio-drama.md):
+  plan audio-first stories, chunked production, continuity, and reusable
+  prompts for narration, hybrid scenes, and multitrack workflows.
 
 ### Model architectures
 
